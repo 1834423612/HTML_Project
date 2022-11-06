@@ -41,14 +41,14 @@
   ```html
   <!DOCTYPE html>
   <html>
-    <head>
+    
         <meta charset="utf-8" />
         <title>This is a test website</title>
     </head>
     <body>
         <a>This is text</a>
-        <a href="https://example.com">This is a Link.</a>
         <br />
+        <a href="https://example.com">This is a Link.</a>
         <p>This is a paragraph.</p>
     </body>
 </html>
